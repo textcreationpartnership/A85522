@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand informer. Or the prerogative of princes, priviledge of parliaments, propriety of the subiect, and power of the magistrate in point of civill government fully asserted. Being a cleare and iust vindication of the late proceedings of the Army under the conduct and command of his Excelency Sir Thomas Fairfax: by certain positions built upon principles both of religion and reason.</title>
+         </titleStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85522</idno><idno type="EEBO-CITATION">99862193</idno>
+  <idno type="VID">114344</idno>
+  <idno type="EEBO-PROQUEST">2240958653</idno>
+  
+            <idno type="STC">Wing G1499</idno>
+            <idno type="STC">Thomason E398_18</idno>
+            <idno type="STC">ESTC R201694</idno>
+            <idno type="PROQUEST">99862193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862193e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114344)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand informer. Or the prerogative of princes, priviledge of parliaments, propriety of the subiect, and power of the magistrate in point of civill government fully asserted. Being a cleare and iust vindication of the late proceedings of the Army under the conduct and command of his Excelency Sir Thomas Fairfax: by certain positions built upon principles both of religion and reason.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.H. and H.H. and commanded to be published for the information of the oppressed commons of England,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Constitutional history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114344:1"/>
+            <p>THE Grand Informer.</p>
+            <p>OR The Prerogative of Princes, Priviledge of Parliaments, Propriety of the Subiect, and Power of the Magistrate in point of Civill government fully asserted.</p>
+            <p>BEING A cleare and iust Vindication of the late proceedings of the Army under the conduct and command of his Excellency Sir Thomas Fairfax: by certain Positions built upon Principles both of Religion and Reason.</p>
+            <q>
+               <bibl>1. Sam. 14.15.</bibl>
+               <p>And the People said unto Saul, shall Jonathan dye who hath wrought this great salvation in Israel? God forbid: as the Lord liveth, there shall not one haire of his head fall to the ground; for he hath wrought with God this day: so the People rescued Jonathan that he dyed not.</p>
+            </q>
+            <p>OXFORD Printed by J. H. and H. H. and commanded to be published for the information of the oppressed Commons of England. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:114344:2"/>
+            <pb n="3" facs="tcp:114344:2"/>
+            <head>THE Grand Informer.</head>
+            <p>IT hath been as the ardent desire, so the great worke and labour of some, both by discourse, preaching and writing, to render odious the late proceedings of the Army, under command of his Excellency Sir Thomas Fairfax, and by mis<g ref="char:EOLhyphen"/>representations both of their intentions and actions, to undermine the credit and honourable respect which they (through the good hand of God upon them) had purchased in the minds of men, by their former unwearied paines, great hazzards, faithfull deportment, honourable and valliant atchivements; through the blessing whereof the Nation began to returne againe to her rest.</p>
+            <p>But to the end that no man might take from them, that crowne of honour which God hath set upon their heads, they not having made forfeiture thereof; and to the end <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> confidence concerning their integrity might be shaken, by the cunning <gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>tions, envious, and malicious ca<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>lado<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of malevolent men: and to the end also that mens thoughts might stand right touching the proper power of the Magistrate-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the liberty and priviledge of the People, and that men might not (through mi<g ref="char:EOLhyphen"/>stake) cause these to fall foule upon each other, which God hath appointed mutually to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>port each other, therefore I have for the present briefly laid downe some few posi<g ref="char:EOLhyphen"/>tions, which I hope will be found serviceable, as to all the fore mentioned ends, so e<g ref="char:EOLhyphen"/>specially in clearing the innocencie of the Army, in their late transactions.</p>
+            <p>These Positions are as followes.</p>
+            <div n="1" type="position">
+               <head>1. Position.</head>
+               <p>That the end and true intent of civill government in Nations and Kingdomes, is the safety and prosperity of the People therein.</p>
+               <div type="demonstration">
+                  <head>The Demonstration.</head>
+                  <p>The great God of all the world being goodness it selfe; the proper issuings, and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ngs <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orth of this nature of his upon the world: as in other Providenciall admini<g ref="char:EOLhyphen"/>strations, so in his counce<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and constitutions, for the ordering and governing the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the Earth are all ca<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>tred and ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t for the benefit and accommodati<g ref="char:EOLhyphen"/>on of the children of men. It being more naturall to God the supre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me good, to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od unto the world, then it is for the Sunne to shine upon it. Therefore as all <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, Stat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, Institutions and Ordinances, which God <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th in generall given <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,are in the intentions of him their Author, and in <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> nature of that <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and ten<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> as that the face of them is set to pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> the peace and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the So<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es of men (Deut, 10.13. To keepe the <gap reason="illegible" resp="#keyers" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>dements of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord, and his statues which I command thee this day for thy <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>od) so also <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> particular ordinance of God (as it is called by the Apostle) of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, governments, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gistracy, is of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> temper, be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>res the same demo<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with the same <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> viz. The good of men Rom. 13.4 for <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e (<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>) is the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of God to that <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> good.</p>
+                  <p>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> which <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of that <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Law, or institution of God, the
+<pb n="4" facs="tcp:114344:3"/>Sabbath, is true concerning all the commands or institution of God <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>quently of this touching Magistracy, The passage is this <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> made for man, and not man for the Sabboth. First, man was not creamed to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> date the Sabboth, but contrarily the Sabboth was instituted by God, for the sake and accommodation of man: even so men, that is, the generallity of the people of a Nation, are not made for Magistracy and Magistracies, viz. for their sake, and accommodate them (unless it be understood in a relative and subo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sence, a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> so far as th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> rule of equity extends, That he that seed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tocke, cares of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ilke thereof. 1, Cor. 9.7. But both government and governours are made and appointed of God, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the benefit and service of men, and are subjcteed to their good, by the will <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ap<g ref="char:EOLhyphen"/>pointment of God.</p>
+               </div>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p n="1">1. Then Princes have no prerogatives, nor Parliaments, any priviledges, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> as are consistant with, and no way prejudiciall to the common good of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en; <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the power derived on the one, or upon the other, is wholy in relation to, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> improved for the common good of the Nation, and therefore not at all <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> or detriment of it.</p>
+                  <p n="2">2. Then the present proceedings of the Army under the command of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Excel<g ref="char:EOLhyphen"/>lency Sir Thomas Fairfax, that worthy Generall, are not and magistratio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the utmost they lift up their hand or desire unto (so far as is visible) is the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> crooked things straight, the removing obstructions of justice, the taking o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the cle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ring of all mens interests, and the cutting of each man into a <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of that which is properly his. Which undertaking of theirs, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a sweet <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> compliance with the proper business of the Magistrate, which is the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> common freedome, Justice and Peace; and if they move towards the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> which the Parliament of its owne accord should aime, and put their hand to <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> worke and service, they cannot be looked upon in these their proceeding <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>sers, but as promoters of the just proceedings of Parliament, according to the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> saying in the lips of our Saviour, Marke 9.40. He that is not against <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is on our part.</p>
+               </div>
+            </div>
+            <div n="2" type="position">
+               <head>The second Position.</head>
+               <p>That the safety and prosperity of the People is the Supre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Law.</p>
+               <div type="demonstration">
+                  <head>The Demonstration.</head>
+                  <p>If government and governors are subordinately appointed by God for the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> welfare of men, which is the assertion of the former position; then <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> safety and prosperity of the People, are things superior to governments <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> themselves, and more inviolably to be observed then the ins<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ctions of <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> authority, whatsoever: answerable hereunto is the knowne principle (<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> prema lex) The safety of the People is the supreame law; and may be <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and made good by the agreement it hath with that maxime in reason, viz. The <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> more excellent then the meanes, for meanes still take place for the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> subserviant thereunto: The glory of God being the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> things were made, is therefore more sacred, and of greater <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> whole creation it selfe; and sooner shall all things be <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to nothing, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> minished; and therefore evident it is, that the end doth command <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> meanes, and not contrarily the meanes the end.</p>
+                  <p>But now Ordinances of rule and government, and government <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the me<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es, and the safety and prosperity of the People is the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> was proved in the former Position. And therefore the safety of the People <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:114344:3"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> highest authority <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ed in Magistrates, and is to command and govern the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> severall actings and motions; and not only it, but who, or whatever is <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> thereunto.</p>
+               </div>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>It was upon this ground the Parliament first invited the people to take up the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ord to assert and vindicate the undoubted rights &amp; immunities of all the free-born people of England against all usurpations and oppositions of men whatsoever, as ap<g ref="char:EOLhyphen"/>peares by many expressions of theirs to this purpose. And the Armie in obedience to the said supre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> law, continues still to hold up the same Sword, untill the great <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd be obtained for which it was first handled. And as the sword was not taken up only or chiefly for the sake of those who were chosen into place of authority and rule, but for the sake of the whole nation, whom by if they were to defend: so neither is it to be l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id down againe meetly or only upon the command, or for the sake or pleasure of any <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> sort or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anke of men, but when the great occasions and necessities of the nations will <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mie: it was common safety called for it, and when common safety hath <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of it, it is not to be <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in vaine.</p>
+               </div>
+            </div>
+            <div n="3" type="position">
+               <head>3. Proposition.</head>
+               <p>When the supr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Magistrates or higher powers, doe not answer the trust reposed in them, providing for publique peace, then those that are subordinate are to under<g ref="char:EOLhyphen"/>take it.</p>
+               <div type="demonstration">
+                  <head>The Demonstration.</head>
+                  <p>If the higher <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> (whose duty <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is to lead the way, and to be first in all honor<g ref="char:EOLhyphen"/>able actions and administrations, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elating to the peace and safety of the Common<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h) shall degenerate from being lovers of the people, and shall become their <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and in stead of saving them out of the hands of their oppressors shall become op<g ref="char:EOLhyphen"/>presors of them themselves; thereby rendring themselves (at least to such a degree) unserviceable to the Common wealth and unusefull as unto the end of their calling, I say in such cases, the exigency of the Common-wealth, the law of nature, and the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> law, which is the safety of the people, impose an obligation upon subordinate powers, and men in commission, to interpose their power and authority, between the <gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>itall powers of oppressors, and the people oppressed by them, and to res<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e and deliver them our of the hands of those that spoile them, and serve themselves of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</p>
+                  <p>The reason hereof is, because subordinate powers receive not their authority from those that are superior, to the end that they might minister unto them, or serve them <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> then they se<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e the Common wealth: But the formall and precise consideration if and for which subordinate as well as superior powers or Magistrates receive autho<g ref="char:EOLhyphen"/>rity amongst men; is the execution of justice, and preservation of Common peace: <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> they such men <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with power and authority in a common-wealth, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> subordinate <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the great end of all Magistracie, and Magistra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> power <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the safety and prosperity of the people, they are, in obedience to the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> law, and in relation to the proper end of their calling, to improve all the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> they have received to s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e the peace and safety of the people, upon arme <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</p>
+                  <p>It is <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> indeed, if all motions, actions and administrations of subordinate powers, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me Magistrates, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the greater; then indeed when <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to common good, the inferio<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:114344:4"/>must do so too: Or in case the supre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> shall all or move <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> subordinate must doe so likewise: But now, though supre<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> methods sake, have power of sending and granting Commissions to others <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ty under them (though for the most part (as in our Land) the people have, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the right, so the liberty of election) yet still such Commissions are in reaction to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> justice and safety (for other authority then such there is none.) All lawfull authority <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> whomsoever placed, is founded upon principles of common <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and tend to <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mon good: So that subordinate Officers in a state, are not <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly to mind and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the hand that brought them their Commission, or what the mind or desire of the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> from whom they received it, but are to be intent upon the reasons and grounded <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> imployment, and the true end of their calling, which is common safety and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> their course according to the occasions and necessities of that, either in ex<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ng <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> contracting their actions or motions.</p>
+                  <p>All power and all authority poceeds from God. The powers that be <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God as the Apostles speaks, Rom. 13.1. And those that are inferiour <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Magistrates receive their power from God aswell as those that are superior (though per<g ref="char:EOLhyphen"/>haps not altogether so immediately) and the peace and safety of the common-wealth is by God committed in trust both to the one and to the other, even <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all that are <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> authority: And if superiour Magistrates which have a greater <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> upon the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Kingdomes betray their trust, and expose that to hazard and ruine, which they should have studied the peace of withall their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight; yet this is no dispensation to in<g ref="char:EOLhyphen"/>ferior powers or governours to abate ought of their <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> or <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the peace of that common wealth, which the other would throw <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> from God, who hath intrusted them to stretch out the hand of their power <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> acts for the safety of a Nation, as unto which they did never <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it up <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> proceeding is most agreeable to principles of reason, and common se<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, by <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> men are acted in other cases, which though somewhat <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> from, yet not <gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ther unlike to this.</p>
+                  <p>A Generall or chiefe Commander in an Army, if when engaged against <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> shall either make himselfe unserviceable to those under his command through <gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ry, or be made unusefull to them by some mishap; in such a case the Army <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be trampled upon by the enemie, as wanting the conduct of a chiefe Commander, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in such a case, one or more subordinate Officers are to supply the roome and pl<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> such a Commander, for the preservation of themselves, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> enemies.</p>
+                  <p>And if the right hand of a man, or any principall member of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> body, by <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> made uselesse to the body, as touching its proper s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ction, in <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> hand, or any other member is still went, according to <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> necessities of the body, in stead of the deficient member, It <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> principles f common fence, to suffer the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> naturall, so of the body po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itique, though one or more <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> corrupted, if it may be by any meanes prevented.</p>
+                  <p>Againe in a great house where there are <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> each having their proper and distinct imployments assigned them; why <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> servant of an inferiour ranke or degree, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> him that is superiour to him, as touching <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> shall in love to the prosperity of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> wanting in his fellow servant, in <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:114344:4"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the houshold; would we blame such a servant as unfaithfull and factious? I my not; Now all Magistrates and men in authority in a nation, whether high or low, are Ministers or servants to the Common-wealth: And in case those that are superior Ministers of Seate shall neglect their duty and business to the great prejudice of the Common-wealth; and others serving the Seate in a ranke or degree beneath them, ob<g ref="char:EOLhyphen"/>serving the same, shall in love and faithfulness to the Common-wealth, step in and sup<g ref="char:EOLhyphen"/>ply that which is wanting in the former, as to the service of the re-publique, who are they that will complain of such servants? or of such service? Except such who are e<g ref="char:EOLhyphen"/>nemies to the Seate, and the prosperous condition of it, or such who have a mind to complain of ease.</p>
+                  <p>Neither is that which is contained in this position any new doctrine, but the very <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> which hath long since found entertainment in the minds and judgements of men is great repute for wisedome and learning in the Churches of God. Peter Martyr up<g ref="char:EOLhyphen"/>on these words, Rom. 13.3. For Rulers are not a terrour to good works, but to the e<g ref="char:EOLhyphen"/>vill, hath this saying. Howbeit I speake not this, that I thinke that superiour powers cannot be put down by inferior Magistrates, or that they cannot be constrained to doe their duty, of those which are appointed either keepers, or authors, or electors of Princes, if they transgress the ends of the power which they have received: As at times past at Rome, the Senate and people of Rome were wont to doe, and at this day in Germany, the Electors of the Empire use sometimes 10 doe.</p>
+                  <p>And Calvin thus, in his institutions, Lib. 4. cap. 20. Sect. 31. For if there be at this time any Magistrate for the behalfe of the people (such as in time were the E<g ref="char:EOLhyphen"/>phori that were let against the Kings of Lacedunonia, or the Tribunes of the people a<g ref="char:EOLhyphen"/>gainst the Roman consuls, or the Demarchi against the Senate of Athens: And the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> power also which peradventure as things are now, the three estates have in every Realme, when they held their principall Assemblies. I doe so, not forbid them accor<g ref="char:EOLhyphen"/>ding to their office to withstand the outragious licentiousness of Kings, that I affirme th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> if they winke at Kings wilfully raging over, and treading down the poore Com<g ref="char:EOLhyphen"/>mon<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y, their dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>embling is not without wicked breach of faith; because they de<g ref="char:EOLhyphen"/>ceifully betray the liberty of the people, whereof they know themselves to be ap<g ref="char:EOLhyphen"/>pointed protectors by the Ordinance of God.</p>
+               </div>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>From what hath been argued in the premises, it followes, that if the common <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>ble cry of the people of this land be true, (viz.) That through the unfaithfule<g ref="char:EOLhyphen"/>ness and deceit of a prevailing party in places of authority, the course of justice in Parliament hath been obstructed, to the increase and multiplication of intollerable <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> throughout the land, in so much that men began to dispaire of remedy, ex<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> those whom God had already honoured with many great a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chievements for the de<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ance of the nation should yet stand up farther to plead the cause of the oppres<g ref="char:EOLhyphen"/>sed against the unrighteousness of men: I say from the premises it followes, that the Ar<g ref="char:EOLhyphen"/>my <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>said being wested with power, and having Commission to pursue the publique <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the Kingdom, and an appor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unity to vindicate those rights and immunities <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that were invaded, have done nothing, nor are about to do any thing so farre <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>sied their intentions, but that which is honourable in them, and ap<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ble in the sight of God and men, and for which the whole Nation may as one <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> it doth a great part) rise up <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> call them <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ied.</p>
+               </div>
+            </div>
+            <div n="4" type="position">
+               <pb n="8" facs="tcp:114344:5"/>
+               <head>4. Position.</head>
+               <p>When Magistrates shall under colour of that authority, which they are <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> sed of for the good of men, doe or command things to be done <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> authority, and which are of an open and manifest tendency to publicke pre<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> people themselves not onely stand cleere of any ingagement thereby, of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thereto, or of being aiding or assisting therein; but they also both may and <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> endeavour the prevention of such mischiefe, when and so far as they have an opp<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nity so to doe.</p>
+               <div type="demonstration">
+                  <head>The Demonstration.</head>
+                  <p>Such actions and injunctions of men in authority, which are inconsistant with com<g ref="char:EOLhyphen"/>mon freedome of mens persons and estates: or which doe necessarily and app<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>antly tend to inslave them, or infringe their just liberties, are not binding to the people, nei<g ref="char:EOLhyphen"/>ther are they engaged thereby to be any way ayding or assisting in the carrying o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or execution of them; and the reason is because such injunctions and actions, though pro<g ref="char:EOLhyphen"/>ceeding from men in place of lawfull authority, are not in themselves authoritative, or issues of any lawfull power; but the product of their private and corrupt will, which can in no constitution, be obligeing to the People, for God hath not confe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed any power or authority upon any whatsoever to wrong or oppress my man, much less the generallity of men in a Kingdome, for that is a thing his soule abhorres, and the people themselves that have chosen them into place of authority and rule, could not <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> upon them, or invest them with any such power or authority neither, for they them<g ref="char:EOLhyphen"/>selves have received no such power from God, the fountaine of justice, and that which they have not first received themselves they cannot confer upon others.</p>
+                  <p>And therefore all such injunctions of men in places of power, which beat the stamp of their authority upon them, and yet carry in the bowels of th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and prejudice to the commonalty, doe proceed both from the private and per<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> wills of such men, as men, considered distinctly and apart from the publicke, will and pleasure of the Kingdome, wherewith they are in<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ted; so far as the first <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> extends: and all such precepts are but the counterfeits of just authority, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> more oblige the People then a counterfeit Commission would doe; neither <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> submission in the people unto such injunction, all that is required at their <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> they ought to contribute their endeavours towards the preventing of what evill and mischiefe appeares in the face of such injunctions or actions, when and so often as they have any opportunity so to doe; for that Law of nature and common prudence, which injoynes every man to preserve himselfe, and to seeke his own good; doth <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> also to oppose and withstand by way of defence all attempts and practises of <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> tend to make a breach thereupon; if a Theefe assault an honest man to rob <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that man have power and opportunity to rid himselfe out of his hands, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> serve his goods, surely he is not worthy the name of a man, much less of a <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that would not do it: and what if Magistrates themselves should become <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Theeves, as the Scripture speakes, Isay. 1.23. and should offer the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to honest men which common Robbers use to doe, should that face of <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> heare as Magistrates bind the hands of honest men from de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ending themselves <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them? And truly if their authority may not beare them out <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> one act <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> neither ought it to doe it in another. Authority when <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of unrighteousness, is a greater agravation of <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God to be a protection to them.</p>
+                  <p>Moreover, that Law that obliges every Commoners according to his ability, and
+<pb n="9" facs="tcp:114344:5"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>po<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ity to seeke the good of that politieke body of which his is a member, doth also enjoyne him to the same degree, and in like manner to endeavour the prevention of any evill intended or attempted against the same by whomsoever.</p>
+               </div>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>Therefore the Army having done so much as they have done towards the brea<g ref="char:EOLhyphen"/>king of the yoake of tyranny from of the neck of the Nation, and yet finding missery, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lavery, and oppression, comming like an armed man, both upon themselves and the Kingdome, through the operation of much power and malice in conjunction in is faction of men, who have been able to trouble the fountain, and to cause the streames thereof to run muddy, and to cause that hand to wound, which was formerly on pur<g ref="char:EOLhyphen"/>pose to heale: I say this Army having so much interest in the peace of the Nation, and such an opportunity left in their hands of giving check to that insolency, rage, and those unworthy ends of some from whence the grievances of the Kingdome did flow, have done wisely and worthily, and like men of intire love and perfect fidelity to their Country, in standing up to desire, and make termes of justice, equity and security, both for themselves and the Nation.</p>
+               </div>
+            </div>
+            <div n="5" type="position">
+               <head>The Fifth Position.</head>
+               <p>That the ordinary common and standing lawes, and usuall methods of proceedings in a Nation, appointed and concluded in ordinary and common cases, for government and security, may in cases extraordinary be declined, and extraordinary meanes and wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es made use of in their stead, for the preservation of publicke peace and freedome.</p>
+               <div type="demonstration">
+                  <head>The Demonstration.</head>
+                  <p>If the supreame law, which is the safety of the People, be that which all sorts of men, both of high degree and low, both governours and governed, must principally <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d ultimately mind and observe in all transactions of a publicke nature (a thing which is one of the axeltrees (upon which the wheele of this discourse turnes) then at such times, and in such cases, when a punctuall observation of the letter of the ordinary and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>own lawes of a Land, or the wonted method of proceeding in state affaires, or the temporary commands or decrees of supreame Magistrates, either fall short of, prove insufficient as to provide for and secure the publicke peace thereof; or else in case the principall Officers of a State are abused by mis-information, and are thereby instigated and provoked to issue out orders in gratification of a particular faction in a state, dri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing on a particular designe of private interest apparently prejudiciall to the publicke, I say then, and in such extraordinary cases, ordinary and common rules of proceeding <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a state or Kingdome, may be laid aside, and such extraordinary made use of in their <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ead, as hold a neerer and more certaine and immediate connexion, with the com<g ref="char:EOLhyphen"/>mon end of all Lawes and governments, viz. common safety, just liberty, and equita<g ref="char:EOLhyphen"/>ble propriety; for this now is a received and undoubted maxime, that when two lawes <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> commands come in competition (though both good in their kind) the lesser is all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ales to give place to the greater: The morrall Law of God, as wee call it, and that which wee call ceremoniall, were both good in their kind, and inviolably to be ob<g ref="char:EOLhyphen"/>served by the Jewes: and yet when these two came in competition about one and the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> act; that still carried it which had a more neere and present relation and con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on with the good and present necessities of men, as best answering the end of those as of all other Lawes: Two or three instances, whereof we have recited by our <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Mat. 17.3, 4, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7, in justification of an action of his Disciples, censured by <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ph<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>es, as in transgression of the Lawes of God: the case was this: The Disciples being hungry, and wanting other provisions, gathered cares of Corne on the Sabbath
+<pb n="10" facs="tcp:114344:6"/>day, a thing which perhaps according to the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>sation of God, under which they then were, would be really a transgression of that <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the Sabboth, if that circumstance of present necessity had been wanting, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> much as the Sabboth was made by God not to cross, but to accomplish man good, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to serve his necessityes (as our Saviour argues it in that saying of his; The Sabboth was made for man, and not man for the Sabboth; That therefore that law of the Sab<g ref="char:EOLhyphen"/>both was not broken by them as touching the end and scope of it; though perhaps <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> touching the letter of it, it might seeme so to be: now those instances of our Saviours to vindicate this act of theirs, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of the same nature with it, as evidently appeares by the bare reading of the words, ver. 3, 4, 5. Have you not read what David did when he was an hungred, and they that were with him; how he entered into the House of God, and did eate the shew bread, which was not lawfull for him to eate, neither for them which were with him, but only for the Priests: Or have ye not read in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, how that on the Sabboth daies, the Priests in the Temple prophane the Sabboth; and are blameless; and concludes ver. 7. that if they had but understood that saying of God in Hosea 6. 6. I will, or I desire mercy, and not sacrifice, they would not have judged as they did in condemning the guiltless.</p>
+                  <p>Why now then if this be the mind and good pleasure of God concerning man, that rather then he should suffer in his necessary comforts (at such time and in such case, when God hath no need of such sufferings from his creature, for the vindication of a<g ref="char:EOLhyphen"/>ny t<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>h of his) he will dispence with his owne commands, so far as the utterall ob<g ref="char:EOLhyphen"/>servation of them, seems to cross the generall end and scope of them, which is the be<g ref="char:EOLhyphen"/>nefit of men: Then certainly Gods vicegerents on earth, who are to judge as he judges and to make his mind the rule of their proceedings; have no reason to expes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or to exact from those under them, a more formall and precise observation of their command, then God doth of his: And therefore when the ordinary and knowne L<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of a Kingdome, or the usuall directions and commands of supreame Magistrates, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> not the true end of lawes and government, which is as oft hath been said, the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the people; or doe in the Letter of them really cross the same: if then such other men whom it concernes also to take care and provide for publicke peace, discerning other waies and method of meanes, in prosecution whereof they are upon rational grounds likely to gaine that great and de<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rable end of all instruments and agents <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> government, as is before specified: in such cases they not only may, but in Law <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> duty to their Country and the prosperity thereof, are bound to follow the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Gods providence, guiding them to digge in that field of means, where the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>easure they seeke for, which is the peace of the Nation, is to be found. For when the sup<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> saw, and other subordinate lawes of men come in competition, the ducture of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>preame law is still to be followed, according to the rule before recited.</p>
+                  <p>It is a true and safe rule to walke in the observation, as well as in the interpretati<g ref="char:EOLhyphen"/>on of Lawer, viz. That the scope, intent, and spirit of the Law is more the Law the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the letter of it. And therefore because the letter of the Stature lawes of our Land, in many particular cases fals short of that equity and ease, which the law-makers by their should seeke to establish: There is a court of Chancery, or equity provided by way of supply, which is as it were for the correction of the harshness of the letter of ot<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> sixed and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>owne Lawes.</p>
+                  <p>So that if then any number of men furnished with any considerable power, and standing under any visible call to helpe and relieve a Nation in extraordinary ca<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, wherein neither standing Lawes, nor law-makers, hath made <gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>cient p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for the
+<pb n="11" facs="tcp:114344:6"/>
+                     <gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>tion of common pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce, and the fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mity of honest men shall stee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e a cour<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> di<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ent from common rules in ordinary cases, provided it be in a direct subordina<g ref="char:EOLhyphen"/>tion, and proper relation to the end of all la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, the safety of the people, which is the soveraign and supreame law, I say in su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h cases they are not to be looked upon as trans<g ref="char:EOLhyphen"/>gressors or dis<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ers of law or lawfull authority, but as upright and faithfull asserters of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, because they doe not cross but accomplish the true end of it, which is indeed th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> power and strength of it.</p>
+               </div>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>Therefore if the Army in the carrying on the great worke for which they were rai<g ref="char:EOLhyphen"/>sed; have been necessi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ted to brea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> over the ordinary and common bounds of known lawe, and now at last to refus<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> disband, though commanded thereunto, but yet all in relation to the security of the Nation, and to the end that all men might reap the fruit and benefit of lawes, and to stop the current of A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bitary exorbitances, they may not, they ought not to be reputed destroyers of lawes, nor men disobedient to law<g ref="char:EOLhyphen"/>full authority, but doe worthily deserve the name and renown of the repairers of brea<g ref="char:EOLhyphen"/>ches, and restorers of paths to dwell in; of men that have put their hands to the plow of the Common-wealth, and have not looked back, for though they have exchanged ordinary and common means, as being too low, too weake and too short for those that as extraordinary, &amp; which are more amply &amp; fully proportionated, to the end of their first undertaking, the peace and safety of the Nation: yet they faithfully have, and y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> doe prosecute the same great end, which is the aime and desire of all good Common-wealths men, and for which all just lawes, and lawfull authority were first erected by God amongst men.</p>
+               </div>
+            </div>
+            <div n="6" type="position">
+               <head>6. Position.</head>
+               <p>That the people of a land, are not so concluded by the votes and determinations of those that have a legislative power, but that they have a liberty of examining and try<g ref="char:EOLhyphen"/>ing the equity and justnest of them, and of dissenting therein upon grounds of non-satisfaction.</p>
+               <div type="demonstration">
+                  <head>The demonstration.</head>
+                  <p>Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st, Blind obedience is <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> wise commendable in, or becomming men: for man is a <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ionall creature, and while he observes the lawes and principles of his being, he <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>es not but in relation to some end; and the exercise of a mans rationall faculty in <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> improvement thereof, consists especially in those two things, (viz.) in the ele<g ref="char:EOLhyphen"/>ction of his end, and the choise of proper and proportionable meanes that will reach the ends now the common end<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> at which both Magistrates and people in a land ought to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime, and to which to proportion their publique actions, is the common good and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of their nation, and he common people, so far as they act or move towards this end, are not therein to be like beasts which are lead and guided by the hand of their rider without knowledge or consideration of the place to which they goe; but like <gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>cting and moving upon rationall grounds, as wrighing and considering whether their actions are of a proper tendency to the publique end they have in their eye, the wisedome of the prudent, saith Solomon, is to understand his way, Prov. 14.8. That is, to know and understand upon grounds of reason, that the course he steers, the m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ner he makes use of and the actions wherein he ingageth, doe all lead and propend to, and not th<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t his end.</p>
+                  <p>But impossible it is that the people of a nation should thus act like men in execu<g ref="char:EOLhyphen"/>ting the commands of their rulers, unlesse they first examine and try them, and weigh the actions in which they are required to engage, as whether they are not pointed and
+<pb n="12" facs="tcp:114344:7"/>postured against or beside the end proposed, or whether they hold a due proportion therewith. And upon examination and tryall the people are to execute, or decline the execution of their commands according as they find them consonant or dis<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> to the common and publique end.</p>
+                  <p>And truly men may with as much face of reason expect that the common people of a land should cease to be men, and like Nebuchadnezzar, should goe and eate grass with the beast of the field, as to expect that they should be moved, and carried hi<g ref="char:EOLhyphen"/>ther on thither to doe this and that by command of their Governours, before they do first sit in judgement in their own thoughts about or concerning the things to be done; as whether they relate to, or rise up against the common interest of the nation, which is the price for which every inhabitant is to run.</p>
+                  <p>Secondly, Either the people of a land are concluded by the votes and determinati<g ref="char:EOLhyphen"/>ons of those in authority, as touching what they are to doe for the publique safety, or they are not, if they be concluded, then those in authority are either infallible in their judgements and decrees, as touching their fitness to the end to which they ought to relate, or else that they be not, then the people of a nation may be necessarily inga<g ref="char:EOLhyphen"/>ged to act towards their own ruine, and to the ruine of their nation, either of which to assert is most absurd.</p>
+                  <p>For that men in authority are subject to erre in their publique administrations, or to miss either the end at which they ought to aime, or else if not, that yet in the choise of sutable meanes, is a thing unto the truth hereof both holy and humane history. To<g ref="char:EOLhyphen"/>gether with the experience of this present age will abundantly witness, and that if the people of a nation were peremptorily concluded and bound up by what the higher powers decree to be done in order to the government of it, and to submit to and act in the accomplishment of such decrees, as oft as they are thereunto required by those powers, should they not, at least be many times ingaged to be active in and accessary to their own ruine, and the desolation of their nation, the which to be, how contrary, it is both to the law and light of nature, and the soveraign and supreame law of Nations, and Kingdomes, is a thing obvious to every mans apprehension.</p>
+                  <p>But if the commonalty be not alwayes absolutely concluded by the orders, decrees and determinations of the higher powers, as is most certaine they are not for the rea<g ref="char:EOLhyphen"/>son before exprest; why then evident it is, that there is alwayes reserved and left unto the people a twofold liberty; 1. A liberty of weighing, trying, examining and judging by common rules of equity and reason, all such orders or decrees as are is<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed out by the higher powers; as namely, whether the nature and tendancy of them be to promote the common interest of the Kingdome, the adaequate end of all just decrees, or whether some particular mens private interest, that is inconsistant with co<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> good. And then 2. a liberty of non submission unto such orders or decrees, and a li<g ref="char:EOLhyphen"/>bertie of endeavouring so far as there is opportunity to prevent the evill and mischiefe of them, in case such men upon a serious and judicious debate of the matter in their own thoughts, are able to discover upon sober and rationall grounds, that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ace <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them is set against the common good of the nation.</p>
+                  <p>But if it be said, that the people are subject to erre in their judgements, and ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re<g ref="char:EOLhyphen"/>hensions concerning the proceedings of the higher Powers, as well as they themselves are subject to erre in their proceedings; and then whether is it most meet and reaso<g ref="char:EOLhyphen"/>nable, that the judgement of the people, or the judgement of men in authority should take place?</p>
+                  <p>To this I answer.</p>
+                  <pb n="13" facs="tcp:114344:7"/>
+                  <p> First, That things of common equity, and which are of publique concernment for good, doe not lye at any such great distance from the apprehensions of most men, but that they may be felt and handled as it were by them: For who knowes not, that for every man to injoy and securely possess his own right is good? And who knowes not but that every one that would detaine from, or dispose him of it; should therefore be punished? And who knowes not that the eare of the Magistrate should alwayes be o<g ref="char:EOLhyphen"/>pen to receive the complaints of, and his hand ready to relieve the oppressed and grie<g ref="char:EOLhyphen"/>ved; and that without any tedious delayes or vexatious attendance; and much more without any reprehention or censure for so doing? And who knowes not, but that those that have taken extraordinary pains, and run extraordinary hazzards in the pub<g ref="char:EOLhyphen"/>lique service of the Kingdome, should, receive a thankefull acknowledgement and a considerable recompence and reward from the Kingdome, by the hands of them who are set for the praise of them that doe well. And who knowes not that the cherishing and incouraging of such men, will be an incentive to others for the future in like cases of extremity, to become alike serviceable to the Common-wealth. And that a contra<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y carriage toward such is as the plucking down of the hedge of a nation? And who knowes not but that the provoking of such, who under God, have served a nation it selfe?, who knowes not but that it will be an imprudent, unmanly, and unmercifull act in men, who having swords in their hands, would lay them down for o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hers to take up, whom they know would make no other use of them then to destroy them and o<g ref="char:EOLhyphen"/>ther honest men? And who knowes not that all such decrees; orders, &amp; votes of the higher powers, as that contribute any thing to the inconveniencing of an nation in a<g ref="char:EOLhyphen"/>ny of the forementioned particulars, or in others like them, have no faire consistancie with the ends of those powers; and therefore as touching such things as are to be dis<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emed by their own light, and which are the subject of every mans thoughts or ap<g ref="char:EOLhyphen"/>prehension, there needs no dispute to arise; or question to be made about truth of judgement concerning them, if any man should deny that the Sun shines when indeed it doth, or that twice two makes foure, where such a negation, worthy a mans conside<g ref="char:EOLhyphen"/>ration, or would it at all weaken the credit and authoritie of his saying, who affirmes the contrary. And doubtless if in matters of common cognizance, and vulger observa<g ref="char:EOLhyphen"/>tion, the Magistrate shall doe things contrary to his trust, and the end of his calling, it will be but vaine dallying in men, in case they should go about to cover the same by saying who are fit to be judges of the proceedings of Magistrates, but Magistrates themselves, and why may not those that complaine of them, being ignorant of the my<g ref="char:EOLhyphen"/>steries of state, be mistaken in their thoughts concerning them? for if such sayings as these in such cases were to be regarded, and that those that doe oppress shall have the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le power of determining what is oppression and what not, it will then follow that all the people of a nation must be absolute slaves, if their Governours have a mind to make them so.</p>
+                  <p n="2">2. When the generallity of the people in a nation are of one mind and sence, and lift up their voice together, by way of complaint, concerning the proceedings of their rulers, it is a shrewd signe there is too much truth in such a politique report, for in such cases that saying, Vox populi, Vox Dei, the voice of the people is the voice of God, is not lightly to be passed over.</p>
+                  <p n="3">3. There is not the like temptation lyes upon the people of judging unrighteously concerning the proceedings of Magistrates, as there is upon Magistrates to doe un<g ref="char:EOLhyphen"/>righteously in their proceedings, because the complaints of people against those Magi<g ref="char:EOLhyphen"/>gistrates, where there is no cause, may very possibly draw his correcting hand upon
+<pb n="14" facs="tcp:114344:8"/>their heads, but is no wayes likely to prove any matter of gaine or advantage to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, And certainly it is more then an ordinary straine of unworthiness in men, that <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them to lye for nothing But now men in authority have opportunitie in their <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> if their hearts will but serve them, to make use of it, to advantage themselves, and to convert that power which is committed to them for publique good, to private int<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> A sin which in most ages of the world hath been too common among Rulers. N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> know that by how much less men are personally concerned in things they attest, by so much the greater probability there is of the truth of their testimony, and therefore when Mag<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>tes shall insist upon their justification, and the generallity of the people in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t on their compla<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ts, it may well incline an ingenious mind to adhere to the peo<g ref="char:EOLhyphen"/>ples complaint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, as the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ruest report.</p>
+                  <p>If it be further laid, that if this doore of liberty be opened for the common people of a nation, to sit in judgement in their own thoughts upon the proceedings of their governours; is their not withall a flood-gate opened unto faction, rebellion, and se<g ref="char:EOLhyphen"/>dition to over-flow the land.</p>
+                  <p>To which<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> answer these three things. 1. That if men in authority demeane them<g ref="char:EOLhyphen"/>selves so in their places, and in the exercise and execution of their power, that righte<g ref="char:EOLhyphen"/>ousness run down from them like a streame, and that their administrations be such as proclaime love, good will, and faithfullness in them, to their country, as it is very <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to see such Magistrates disquietied in their seats of justice, so they shall not need to feare how na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed, bare, and ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fest their proceedings be to all eyes, not how much they are looked into and examin<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> (He that doth truth commeth to the light, that his deeds may be made manifest that they are wrought in God, Iohn 3.21.) for in such <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ses the more they are known. the less they will be mistrusted. And it is not: the <gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ledge of the well doing of such men who are in authority, that is wont to cause dis<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tents and sidings in a nation (For if ye be followers of that which is good, who i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> will harme you, as saith the Apostle, 1 Peter 3.13.) But it is the observation and s<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> of the evill, and unjust proceedings of such men, to the oppression and griefe of the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> breth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en, that gives being unto such commotions.</p>
+                  <p>And therefore secondly I answer, that the shutting of this doo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of just liberty a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> against the people, and keeping them in darkeness, and expecting from them a blind obedience, grounded only upon an implicite saith, is a principall, cause of a g<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at least of those evills which many times are as a moth unto a nation, the pro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th is, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it is opportunity that makes a thiefe, and it is as true, that it i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> o<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> makes an unjust ruler; for doubtless if men did not so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>otally, resign themselves and their affaire<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> (as generally they do) into the hands of their rulers and did not <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> (as for the most part men have been taught to doe) in what their. Go<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> without enquiring into the reasons and grounds of their proceedings, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> what relation they have to common good, men in authority would not take <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, confidence and boldnesse unto themselves as many times they do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> upon the people, and to ride them out of breath. It is because they <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> themselves like bruit beast that are made to be taken, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that incourageth them to become as a snare unto Mispa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, and as <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> as they were, Hos. 5. E. It is the unmanliness, supine <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the people, that tempts those in authority over them to abuse them. Hos. <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> phraim is oppressed and broken in judgement because <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e willingly, walled after <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> comma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dement Because Ephraim readily yeelded obedience to what e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> dement came from his Rulers; swallowed down all without ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="15" facs="tcp:114344:8"/>without c<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ming, therefore his r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lers were <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bold<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed to serve themselves of him, they oppressed, and even brake him to peeces when they sate in judgement.</p>
+                  <p>Therefore manifest it is, that the liberty before as<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erted in the right use of it, doth not at all tend to ingender, but to prevent those sad inconveniences laid in the obje<g ref="char:EOLhyphen"/>ction.</p>
+                  <p>But thirdly and lastly, I answer that if it were granted that wicked and dissolute men <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y abuse such a liberty which (as the position asserts) belongs unto the people, to such a degree as is mentioned in the objection (as it is possible that their may be a spirit of such wickedness in men, though it's no way probable that such bad fruits should grow on so good a Tree) yet then the objection may be retorted, and so the exception stands more strongly against that absolute unquestionable, and unexamina<g ref="char:EOLhyphen"/>ble power in the Magistrate, which the objection labours to settle upon him by en<g ref="char:EOLhyphen"/>deavouring to soyle the argument, which doth oppose it; then the objection it selfe doth against the liberty of the People: For if the People may not have liberty to weigh the proceedings of men in greatest authority over them, in the ballance of equity and reason, and to dissent from them therein, in case they be found to light; and all upon this ground, viz, because men under colour and pretence of a rationall dissenting from the Magistrate in his proceedings, may without any just reason or cause at all grow factious, and raise parties in a state against the Magistrate and his just and law<g ref="char:EOLhyphen"/>full administration: then neither is it in anywise meet that any men in authority what<g ref="char:EOLhyphen"/>soever, should have any such unlimmited power put into their hands, as to order and decree what they will, and to doe what they please in managing the affaires of a com<g ref="char:EOLhyphen"/>mon-wealth without being accountable unto any: because there is much more danger of their abusing such a power to oppress the People, then there is of the Peoples abu<g ref="char:EOLhyphen"/>sing their honest and just liberty to rebellion and faction: for it cannot be de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yed but that Magistrates are men subject to like infirmities, to like inormities, and to like temptations with other men: Neither can it be denyed upon any colourable pretence, but that they may (de facto) exceed their due bounds: Mow as for the People, they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ot rise up unjustly against, or provoke the Magistrate, Prov. 20.2. but they sinne against their owne soules, or lives, as Solomon speakes, in as much as they runne a des<g ref="char:EOLhyphen"/>perate hazzard of them thereby; but the Magistrate (upon supposition that he is un<g ref="char:EOLhyphen"/>accountable to man) runs no such hazzard of his life by doing unjustly; and therefore be having more opportunity and greater temptations upon him, and having the same principles of frailty as other men have, rendering him obnoxious to corruption, is therefore more likely to miscarry in abusing of his power, then the People are in a<g ref="char:EOLhyphen"/>busing their liberty. And therefore as I say the objection being retorted, is of far grea<g ref="char:EOLhyphen"/>ter force against the power implicitly contended for in the objection, then the obje<g ref="char:EOLhyphen"/>ction it selfe is against the liberty of the People. asserted in the Position.</p>
+               </div>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>If the People of a Nation have liberty of trying the conclusions of State, and of dis<g ref="char:EOLhyphen"/>serting therein upon due grounds of non satisfaction; then the Army de<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ring upon some Votes of Parliament, and suspending the execution of them, are not thereupon forthwith to be censured as men disobedient to Authority; but the reasons and grounds of their so doing are to be taken into consideration, and in case the grounds of their proceedings, and their proceedings themselves, doe comport with the publicke inte<g ref="char:EOLhyphen"/>rest of the Kingdome (I nothing doubt but that a few daies experience will give the Nation this assurance into her bosome) then well may that mouth of clamour and evill speaking, that hath been so widely opened against them, be stopt, and every man take shame unto himselfe that hath lifted up a tongue, and that would have lifted up <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> against them.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
